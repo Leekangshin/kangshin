@@ -1,0 +1,97 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 90,
+    "sha256": "69deabb6ae69c91d8284c4501bcb64bb456b88f8211e503dadec4fecb4f48db2"
+  },
+  {
+    "file": "charging.py",
+    "bytes": 5830,
+    "sha256": "cf019f79c8dd34125e01d0f3d527d9b7886e70c31571e5fee88b02bad2701177"
+  },
+  {
+    "file": "charging_schedule.csv",
+    "bytes": 22928,
+    "sha256": "1e88e35984e8f84d1d2efc4889eed969d35b7ec99f95724c71d0578fe57464fb"
+  },
+  {
+    "file": "comparison.png",
+    "bytes": 277981,
+    "sha256": "ae5f4e82c7aae0bc69d950925e56f08d4d3dec8cf2579c773a990dbe98113602"
+  },
+  {
+    "file": "data.py",
+    "bytes": 4008,
+    "sha256": "492c3bba23b6e8a7b8c28fed81e3e0f9790e7d744d92aa1f4a4f1d2ab3031522"
+  },
+  {
+    "file": "departure_requirements.csv",
+    "bytes": 4107,
+    "sha256": "f3130dc648151102d0c75d3666b3c65c84f1800bce669ebe3400107939bdf10d"
+  },
+  {
+    "file": "fleet_history.csv",
+    "bytes": 311087,
+    "sha256": "bed946ec41970424d489fca7d271e81c883abfd9540a530b36690105bbb8903c"
+  },
+  {
+    "file": "forecast.py",
+    "bytes": 2175,
+    "sha256": "b084d5c8e5c6e30f9634744bae3abace57ce0eacb33f03b8101a962767fec360"
+  },
+  {
+    "file": "grid_profile.csv",
+    "bytes": 398,
+    "sha256": "757149391a0b2e01319b949b6c0759f2ba828bb3a0732234a6b03e34ffc0f3e5"
+  },
+  {
+    "file": "metrics.json",
+    "bytes": 2985,
+    "sha256": "b24cadf086bbc952cebc19be821e6e378ac4a4cc015ea38497a8bd5b64b473a4"
+  },
+  {
+    "file": "README.md",
+    "bytes": 6426,
+    "sha256": "4e252036ba2c2a4ce7cf65e33b35e33ec03e9dafea4facdb3ca44c5d2bd46198"
+  },
+  {
+    "file": "REPORT.md",
+    "bytes": 2993,
+    "sha256": "597f958e6c5c213ca62d7d2353ec9935607463d363157b8d834c5f13e64fa2b6"
+  },
+  {
+    "file": "reporting.py",
+    "bytes": 7810,
+    "sha256": "0da0e49b9bba464c8e8a0c8142543e62fc456a24f3ec2c8630d895bdb04ce7e2"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 70,
+    "sha256": "aeacf9cd892b227d2b36e418b67274b6b685490c76d7c224bfb65eea71b50414"
+  },
+  {
+    "file": "run_demo.py",
+    "bytes": 2263,
+    "sha256": "9081e40438c7ab4930ac4bd8df47e1eab38fa309b1583bdfdb92b2695e05e55b"
+  },
+  {
+    "file": "strategy_metrics.csv",
+    "bytes": 665,
+    "sha256": "804ca9656d8e00a5f047c84295451d3550bbf99f1149b39c583e5eb1e77fcfe8"
+  },
+  {
+    "file": "test_core.py",
+    "bytes": 4108,
+    "sha256": "645f3398957a71c2841dfcb11d2b70cf7a22419854564e3ae30ed17342608fda"
+  },
+  {
+    "file": "test_predictions.csv",
+    "bytes": 83962,
+    "sha256": "10de821d949b18e19e214b64c2004014113f442191d9489d6a86172c895df429"
+  },
+  {
+    "file": "VALIDATION.md",
+    "bytes": 807,
+    "sha256": "22399d0f4e8a0730b27979997e87d11f1ca6c100e1aa3253eabd0d73f119407f"
+  }
+]
