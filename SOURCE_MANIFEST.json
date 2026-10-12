@@ -1,0 +1,62 @@
+[
+  {
+    "file": "step1gpu.py",
+    "original_file": "step1gpu.py",
+    "bytes": 17778,
+    "sha256": "c85f25a16b3666c4ba152064704f24c5b4c76325805dd2ae7d93c7288ddb02a1"
+  },
+  {
+    "file": "step1single.py",
+    "original_file": "step1single.py",
+    "bytes": 15333,
+    "sha256": "3f5a89ad004f1d0bc2d7927b83db069fe7a6f2e96e1e166530c0547e860d45a2"
+  },
+  {
+    "file": "step2.py",
+    "original_file": "step2.py",
+    "bytes": 6627,
+    "sha256": "583fcac59fd74d101c768f737065158069780db28b66a6debdc056ecc9cbcfdb"
+  },
+  {
+    "file": "step3train.py",
+    "original_file": "step3train.py",
+    "bytes": 18411,
+    "sha256": "c9174b53a2659c497a94eb570c270a0785030fe2716f2ba80da993ec7c3760cd"
+  },
+  {
+    "file": "step3train300.py",
+    "original_file": "step3train300 .py",
+    "bytes": 20207,
+    "sha256": "31dffe349d55858ff73e7a3a417da2a6c198519fc43a403b73fde510d6a76e44"
+  },
+  {
+    "file": "step4blackbox.py",
+    "original_file": "step4blackbox.py",
+    "bytes": 7746,
+    "sha256": "dc8af860e3ec532ceb7427af001b6bab48300558067bc42ea4aa656b6095e066"
+  },
+  {
+    "file": "step3ablationf.py",
+    "original_file": "step3ablationf.py",
+    "bytes": 26863,
+    "sha256": "d5e7b9440c36470bade64cf07e33c807fa7a3b94f235571f3f83890aef877851"
+  },
+  {
+    "file": "step3ablationpurecnn.py",
+    "original_file": "step3ablationpurecnn.py",
+    "bytes": 26752,
+    "sha256": "e868b8543e750aa4719a2b3617ce15c18fa0558099e912c2187897bab4116ca3"
+  },
+  {
+    "file": "step3ablationlinearscaling.py",
+    "original_file": "step3ablationlinearscaling.py",
+    "bytes": 20657,
+    "sha256": "da7cac989c7c1640a37c1535808d8132e7a813d4fda79c1f31035c581a902480"
+  },
+  {
+    "file": "step3ablation_arch_schedule.py",
+    "original_file": "step3ablation_arch_schedule.py",
+    "bytes": 4577,
+    "sha256": "0baa7002bdfa81f23c9caa0b11a3d8e88ef41ef1e810455c9dc9e665090200ab"
+  }
+]
